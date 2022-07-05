@@ -1,4 +1,5 @@
 # The name of this view in Looker is "Order Items"
+#comment recent
 view: order_items {
   # The sql_table_name parameter indicates the underlying database table
   # to be used for all fields in this view.
